@@ -60,6 +60,10 @@ SYMBOL_ALIASES = {
     "TROILUS": "TLG",
     "CHE": "CHE.UN",
     "CHE.UN": "CHE.UN",
+    "COGECO": "CCA",
+    "BIP UN": "BIP.UN",
+    "BIP": "BIP.UN",  
+    "BIP.UN": "BIP.UN",
         
 }
 
