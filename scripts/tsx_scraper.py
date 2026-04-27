@@ -64,7 +64,6 @@ SYMBOL_ALIASES = {
     "BIP UN": "BIP.UN",
     "BIP": "BIP.UN",  
     "BIP.UN": "BIP.UN",
-        
 }
 
 def get_utc_now() -> datetime:
